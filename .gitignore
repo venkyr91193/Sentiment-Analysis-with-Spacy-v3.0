@@ -1,0 +1,11 @@
+# to ignore the .ds_store from git
+.DS_Store
+
+# python
+*.pyc
+
+# history
+.history
+
+# data
+/data/*
