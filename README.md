@@ -12,7 +12,7 @@ For custom datasets, you need to change the way the data is loaded in the load f
 Use the command:
 pip3 install -r requirements.pip
 
-or install the requirements from the file by youself.
+or install the requirements from the file by yourself.
 
 # FastAPI
 I have created a basic implementation of a server based fastAPI file if you want to use.
