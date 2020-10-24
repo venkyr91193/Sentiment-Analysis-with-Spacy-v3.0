@@ -10,7 +10,7 @@ For custom datasets, you need to change the way the data is loaded in the load f
 
 # Installation
 Use the command:
-pip3 install -r requirements.pip
+>>> pip3 install -r requirements.pip
 
 or install the requirements from the file by yourself.
 
